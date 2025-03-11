@@ -1,4 +1,4 @@
-# gnb-macro
+# Guts & Blackpowder Macro
 A macro program that automates sapper movement.  
 
 ## Features  
